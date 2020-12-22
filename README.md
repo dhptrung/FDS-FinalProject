@@ -1,6 +1,6 @@
 # ĐỒ ÁN CUỐI KỲ - NHẬP MÔN KHOA HỌC DỮ LIỆU
 
-#### Giảng viên: thầy Trần Trung Kiên
+### Giảng viên: thầy Trần Trung Kiên
 
 ---
 
