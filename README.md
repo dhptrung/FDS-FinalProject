@@ -1,10 +1,10 @@
 # ĐỒ ÁN CUỐI KỲ - NHẬP MÔN KHOA HỌC DỮ LIỆU
 
-### Giảng viên: thầy Trần Trung Kiên
+#### Giảng viên: thầy Trần Trung Kiên
 
 ---
 
-## Thông tin nhóm
+### Thông tin nhóm
 
 - STT nhóm: 17
 - Thành viên: 
