@@ -1,4 +1,7 @@
 # ĐỒ ÁN CUỐI KỲ - NHẬP MÔN KHOA HỌC DỮ LIỆU
+
+#### Giảng viên: thầy Trần Trung Kiên
+
 - STT nhóm: 17
 - Thành viên: 
     + 18120066 - Bùi Đoàn Hữu Nhân
