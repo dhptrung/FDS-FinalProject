@@ -4,7 +4,7 @@
 
 ---
 
-### Thông tin nhóm
+## Thông tin nhóm
 
 - STT nhóm: 17
 - Thành viên: 
