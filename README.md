@@ -2,6 +2,10 @@
 
 #### Giảng viên: thầy Trần Trung Kiên
 
+---
+
+## Thông tin nhóm
+
 - STT nhóm: 17
 - Thành viên: 
     + 18120066 - Bùi Đoàn Hữu Nhân
